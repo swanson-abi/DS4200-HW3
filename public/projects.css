@@ -12,7 +12,6 @@ body {
     line-height: 1.6;
 }
 
-/* Header and Navigation */
 header {
     background-color: #333;
     color: #fff;
@@ -38,7 +37,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Section Headings */
 h1, h2 {
     margin-bottom: 1rem;
 }
@@ -64,7 +62,6 @@ h1, h2 {
     border-radius: 8px;
 }
 
-/* Project Items */
 .project-item {
     background-color: #f9f9f9;
     border: 1px solid #ddd;

@@ -1,0 +1,6 @@
+hyperlink of site: https://ds4200.netlify.app
+overview of styling:
+I wanted this styling to be pretty consistent across the board. I used similar features and styling throughout 
+the connecting pages such as alignment, boxed borders, and a similar color scheme of white, grey, and pink. I thought it was important
+to user interaction to include clickable links, photos, and responsive grids/buttons to each page to increase the usability. Fonts, sizing, 
+and scale have all been consistent for all associated pages.
